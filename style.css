@@ -1,0 +1,80 @@
+
+hr {
+    width: 115px;
+    border-top: 3px solid #25aae1;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container {
+    padding-top: 170px;
+    padding-bottom: 340px;
+}
+
+.img-w100 {
+    width: 100%;
+}
+
+.pr-44 {
+    padding-right: 44px;
+}
+
+.pl-44 {
+    padding-left: 40px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.mb-32 {
+    margin-bottom: 32px;
+}
+
+.mb-140 {
+    margin-bottom: 140px;
+}
+
+.function-top {
+    margin-bottom: 65px;
+}
+
+.function-bottom {
+    margin-top: 65px;
+}
+
+.function img {
+    padding-right: 14px;
+}
+
+.elearning {
+    margin-top: 256px;
+}
+
+.elearning img {
+    margin-bottom: 64px;
+    max-width: 100%;
+}
+
+.elearning .img {
+    height: 365px;
+}
+
+.gamification {
+    margin-bottom: 100px;
+}
+
+@media only screen and (max-width: 720px) {
+    .pr-44 {
+        padding-right: 0;
+    }
+    
+    .pl-44 {
+        padding-left: 0;
+    }
+
+    .col-12 {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+  }
